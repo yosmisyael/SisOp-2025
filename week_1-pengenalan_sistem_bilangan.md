@@ -121,4 +121,169 @@ a. 1780<sub>10</sub><br>
    d. EBED<sub>16</sub> = **60397<sub>10</sub>**<br>
 
 ---
+<sub></sub>
+<sup></sup>
 
+
+8. Konversikan bilangan pecahan desimal di bawah ini ke dalam bilangan biner <br>
+   a. 0,3125<sub>10</sub> <br>
+   **Solusi:<br>**
+   (i)  Konversi bagian bilangan bulat ke biner <br>
+   0<sub>10</sub> = 0<sub>2</sub><br>
+(ii) Konversi bagian pecahan ke biner <br>
+0.140625 × 2 = 0.28125 → Bagian bilangan bulat = 0 <br>
+0.28125 × 2 = 0.5625 → Bagian bilangan bulat = 0<br>
+0.5625 × 2 = 1.125 → Bagian bilangan bulat = 1<br>
+0.125 × 2 = 0.25 → Bagian bilangan bulat = 0<br>
+0.25 × 2 = 0.5 → Bagian bilangan bulat = 0<br>
+0.5 × 2 = 1.0 → Bagian bilangan bulat = 1<br>
+Sehingga, 0,14062510 = 0,0010012
+
+   b. 0,65625<sub>10</sub> = **0,10101<sub>2</sub>** <br>
+   c. 0,34375<sub>10</sub> = **0,01011<sub>2</sub>** <br>
+   d. 0,140625<sub>10</sub> = **0,001001<sub>2</sub>** <br>
+---
+9. Konversikan bilangan desimal di bawah ini ke dalam bilangan biner <br>
+   a. 11,625<sub>10</sub><br>
+      Solusi:<br>
+      (i) Konversi bagian bilangan bulat ke biner<br>
+      
+      | Bilangan | Hasil Bagi Dua (Bilangan : 2) | Sisa |
+      | -------- | ----------------------------- | ---- |
+      | 11 | 5| 1 |
+      | 5 |2| 1 |
+      | 2 |1| 0 |
+      | 1 |0| 1 |
+
+      **11<sub>10</sub> = 1011<sub>2</sub>** <br>
+      (ii) Konversi bagian pecahan ke biner <br>
+      0,625×2 = 1,25 → Bagian bilangan bulat = 1<br>
+      0,25×2 = 0,5 → Bagian bilangan bulat = 0<br>
+      0,5×2 = 1,0 → Bagian bilangan bulat = 1<br>
+      0,625<sub>10</sub> = 0,101<sub>2</sub> <br>
+      **Sehingga, 11.625<sub>10</sub> = 1011.101<sub>2</sub>**<br>
+   
+   b. 0,6875<sub>10</sub> = **0,1011<sub>2</sub>**<br>
+   c. 0,75<sub>10</sub> = **0,11<sub>2</sub>**<br>
+   d. 25,75<sub>10</sub> = **11001,11<sub>2</sub>**<br>
+
+---
+
+10. Konversikan bilangan desimal di bawah ini ke dalam bilangan heksadesimal <br>
+    a. 348,654<sub>10</sub><br>
+    Solusi: <br>
+    (i) Konversi bagian bilangan bulat ke heksadesimal
+    | Bilangan | Hasil Bagi Enam Belas (Bilangan : 16) | Sisa |
+      | -------- | ----------------------------- | ---- |
+      |348 |21| 12 (C)|
+      |21| 1| 5|
+      |1 |0 |1|
+
+      **348<sub>10</sub> = 15C<sub>16</sub>**<br>
+      (ii) Konversi bagian pecahan ke heksadesimal<br>
+      0.654×16=10.464 → Bagian bilangan bulat = 10 (A) <br>
+      0.464×16=7.424 → Bagian bilangan bulat = 7 <br>
+      0.424×16=6.784 → Bagian bilangan bulat = 6 <br>
+      0.784×16=12.544 → Bagian bilangan bulat = 12 (C) <br>
+      Sehingga, **348,654<sub>10</sub> = 15C,A78<sub>16</sub>**
+
+    b. 1784,240<sub>10</sub> = **6F8,3D7<sub>16</sub>**<br>
+---
+11. Konversikan bilangan di bawah ini ke dalam bilangan desimal 
+    <br>
+    a. 010100011,001111101<sub>2</sub> <br>
+    **Solusi:**<br>
+    (i) Konversi bagian bilangan bulat ke desimal <br>
+    010100011<sub>2</sub> = 0 × 2<sup>8</sup> + 1 × 2<sup>7</sup> + 0 × 2<sup>6</sup> + 1 × 2<sup>5</sup> + 0 × 2<sup>4</sup> + 0 × 2<sup>3</sup> + 0 × 2<sup>2</sup> + 1 × 2<sup>1</sup> + 1 × 2<sup>0</sup> <br>
+    010100011<sub>2</sub> = 0+128+0+32+0+0+0+2+1 <br>
+    010100011<sub>2</sub> = 163<sub>10</sub>
+
+
+    (ii) Konversi bagian pecahan ke desimal <br>
+    0.001111101<sub>2</sub> = 0 × 2<sup>-1</sup> + 1 × 2<sup>-2</sup> + 1 × 2<sup>-3</sup> + 1 × 2<sup>-4</sup> + 1 × 2<sup>-5</sup> + 1 × 2<sup>-6</sup> + 0 × 2<sup>-7</sup> + 0 × 2<sup>-8</sup> + 0 × 2<sup>-9</sup><br>
+    0.001111101<sub>2</sub> = 0+0+0.125+0.0625+0.03125+0.015625+0.0078125+0+0.001953125 <br>
+    0.001111101<sub>2</sub> = 0.24414062510<sub>10</sub>
+    Sehingga, 010100011,001111101<sub>2</sub> = **163,244140625<sub>10</sub> ≈ 163,245<sub>10</sub>**<br>
+
+    b. 654,276<sub>8</sub> = **428,37109375<sub>10</sub> ≈ 428,371<sub>10</sub>** <br>
+    c. 4C5,2B8<sub>16</sub> = **1221,169921875<sub>10</sub> ≈ 1221,1699<sub>10</sub>** <br>
+
+---
+12. Rubahlah bilangan biner di bawah ini ke dalam bentuk BCD<br>
+    a. 10100110000111<sub>2</sub><br>
+    **Solusi:<br>**
+    (i) Format bilangan biner ke dalam bentuk binary code decimal:<br>
+    10<sub>2</sub>   = 2<sub>10</sub> <br>
+    1001<sub>2</sub> = 9<sub>10</sub> <br>
+    1000<sub>2</sub> = 8<sub>10</sub> <br>
+    0111<sub>2</sub> = 7<sub>10</sub> <br>
+    **Sehingga, 10100110000111<sub>2</sub> = 2987<sub>10</sub>**<br>
+    b. 1010101100011<sub>2</sub> = **1563<sub>10</sub>**
+   
+---
+
+13. Rubahlah bentuk BCD di bawah ini ke dalam bilangan biner<br>
+   a. 1987 <br>
+   Solusi:<br>
+   Konversi setiap digit bilangan ke bentuk binary code decimal:<br>
+   1<sub>10</sub> = 0001<sub>2</sub><br>
+   9<sub>10</sub> = 1001<sub>2</sub><br>
+   8<sub>10</sub> = 1000<sub>2</sub><br>
+   7<sub>10</sub> = 0111<sub>2</sub><br>
+   **Sehingga, 1987<sub>10</sub> dalam bentuk binary code decimal adalah 1 1001 1000 0111<sub>2</sub>**<br>
+    b. 2346<sub>10</sub> = **10 0011 0100 0110<sub>2</sub>**<br>
+    c. 501<sub>10</sub>  = **101 0000 0001<sub>2</sub>**<br>
+
+---
+
+14. Rubahlah bilangan biner di bawah ini ke dalam BCO<br>
+   a. 11111101001<sub>2</sub><br>
+   Solusi: <br>
+   (i) Konversi bilangan biner dalam bentuk binary code octal:<br>
+   011<sub>2</sub> = 3<sub>10</sub><br> 
+   111<sub>2</sub> = 7<sub>10</sub><br>
+   101<sub>2</sub> = 5<sub>10</sub><br> 
+   001<sub>2</sub> = 1<sub>10</sub><br>
+   **Sehingga, 11111101001<sub>2</sub> = 3751<sub>10</sub>**
+   
+      b. 101110 010100<sub>2</sub> = **5624<sub>10</sub>**<br>
+      c. 1100000010<sub>2</sub> = **1402<sub>10</sub>**<br>
+
+---
+
+15. Rubahlah bilangan biner di bawah ini ke dalam BCH<br>
+    a. 1101 1111 0010 1110<sub>2</sub><br>
+    Solusi:<br>
+    Konversi bentuk decimal ke bentuk binary code hexadecimal<br>
+    1101<sub>2</sub> = D<sub>16</sub><br>
+    1111<sub>2</sub> = F<sub>16</sub><br>
+    0010<sub>2</sub> = 2<sub>16</sub><br>
+    1110<sub>2</sub> = E<sub>16</sub><br>
+    **Sehingga, 1101 1111 0010 1110<sub>2</sub> = DF2E<sub>16</sub>**<br>
+
+    b. 110100110000001<sub>2</sub> = **6981<sub>16</sub>**<br>
+
+___
+
+16. Rubahlah Bentuk BCH di bawah ini ke dalam bilangan heksadesimal <br>
+   a. F0DE<sub>16</sub><br>
+   Solusi:<br>
+   (i) Konversi tiap digit bilangan dalam bentuk BCH ke bentuk biner: <br>
+   F<sub>16</sub> = 1111<sub>2</sub><br>
+   0<sub>16</sub> = 0000<sub>2</sub><br>
+   D<sub>16</sub> = 1101<sub>2</sub><br>
+   E<sub>16</sub> = 1110<sub>2</sub><br>
+   **Sehingga, F0DE16 = 1111 0000 1101 1110<sub>2</sub>** <br>
+   b. 1CAB<sub>16</sub> = **1 1100 1010 1011<sub>2</sub>**<br>
+   c. 834<sub>16</sub> = **1000 0011 0100<sub>2</sub>**<br>
+
+---
+17. Nyatakan positip atau negatip bilangan biner di bawah ini<br>
+   a. 01111111<br>
+   Solusi:<br>
+   01111111<sub>2</sub> = 0 × -(2<sup>7</sup>) + 1 × 2<sup>6</sup> + 1 × 2<sup>5</sup> + 1 × 2<sup>4</sup> + 1 × 2<sup>3</sup> + 1 × 2<sup>2</sup> + 1 × 2<sup>1</sup> + 1 × 2<sup>0</sup><br>
+   01111111<sub>2</sub> = 0+64+32+16+8+4+2+1 <br>
+   01111111<sub>2</sub> = **127<sub>10</sub> (Positif 127)**
+   <br>
+   b. 10000000<sub>2</sub> = **−128<sub>10</sub> (Negatif 128)**<br> 
+   c. 01111011<sub>2</sub> = **123<sub>10</sub> (Positif 123)**<br>
