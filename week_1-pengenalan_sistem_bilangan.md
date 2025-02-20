@@ -110,4 +110,15 @@ a. 1780<sub>10</sub><br>
 
 ---
 7. Konversikan bilangan heksadesimal di bawah ini ke dalam bilangan desimal
+   a. ABCD<sub>16</sub> <br>
+   **Solusi:**<br>
+   ABCD<sub>16</sub> = A × 16<sup>3</sup> + B × 16<sup>2</sup> + C × 16<sup>1</sup> + D × 16<sup>0</sup><br>
+    ABCD<sub>16</sub> = 10 × 4096 + 11 × 256 + 12 × 16 + 13 × 1<br>
+    **ABCD<sub>16</sub> = 43981<sub>10</sub>**
+
+   b. 2170<sub>16</sub> = **8560<sub>10</sub>**<br> 
+   c. B75F<sub>16</sub> = **46943<sub>10</sub>**<br>
+   d. EBED<sub>16</sub> = **60397<sub>10</sub>**<br>
+
+---
 
