@@ -287,3 +287,53 @@ ___
    <br>
    b. 10000000<sub>2</sub> = **−128<sub>10</sub> (Negatif 128)**<br> 
    c. 01111011<sub>2</sub> = **123<sub>10</sub> (Positif 123)**<br>
+
+---
+18. Nyatakan bilangan biner negatip di bawah ini ke dalam bilangan desimal <br>
+   a. 10001000 <br>
+   Solusi:<br>
+   10001000<sub>2</sub> = (−1 × 2<sup>7</sup>) + (0 × 2<sup>6</sup>) + (0 × 2<sup>5</sup>) + (0 × 2<sup>4</sup>) + (1 × 2<sup>3</sup>) + (0 × 2<sup>2</sup>) + (0 × 2<sup>1</sup>) + (0 × 2<sup>0</sup>)<br>
+   10001000<sub>2</sub> = −128+0+0+0+8+0+0+0 <br>
+   10001000<sub>2</sub> = **-120<sub>10</sub> (Negatif 120)** <br>
+<br>
+   b. 11110111 = **−9<sub>10</sub> (Negatif 9)**<br>
+   c. 10000101 = **−123<sub>10</sub> (Negatif 123)**<br>
+   d. 10011100 = **−100<sub>10</sub> (Negatif 100)**<br>
+
+---
+
+19. Nyatakan ASCII Code di bawah ini dalam bentuk karakter<br>
+   a. 41<sub>16</sub> <br> 
+      Solusi:<br>
+      (i) Ubah bentuk hexadecimal ke dalam decimal:<br>
+      41<sub>16</sub> = 4×161+1×160 <br>
+      41<sub>16</sub> = 64 + 1<br>
+      41<sub>16</sub> = 65<sub>10</sub><br>
+      (ii) Dapatkan karakter dari ASCII table untuk kode 65<br>
+      **Kode ASCII 65 adalah karakter A.** <br>
+   b. 5A<sub>16</sub> = **Z**<br>
+   c. 24<sub>16</sub> = **$**<br>
+   d. 77<sub>16</sub> = **w**<br> 
+
+---
+20. Nyatakan Karakter di bawah ini dalam ASCII Code <br>
+   a. a <br>
+   Solusi:<br>
+   **Dari ASCII table, dapat disimpulkan bahwa kode ASCII dari karakter ‘a’ dalam bentuk hexadecimal adalah 61**<sub>**16**</sub>. <br>
+   b. x = **78<sub>16</sub>**<br>
+   c. m = **6D<sub>16</sub>**<br>
+   d. H = **48<sub>16</sub>**<br>
+   
+---
+21. Dengan Keyboard standard ASCII, pada layar monitor nampak tulisan sebagai berikut <br>
+PRINT X <br>
+Nyatakan Keluaran pada Keyboard tersebut <br>
+**Solusi:** <br>
+Konversi tiap karakter ke dalam kode ASCII berdasarkan ASCII table:
+   **P = 101 00002 <br>
+   R = 101 00102 <br>
+   I = 100 10012 <br>
+   N = 100 11102 <br>
+   T = 101 01002 <br>
+   space = 010 00002 <br>
+   X = 101 10002 <br>**
