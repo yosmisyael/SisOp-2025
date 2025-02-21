@@ -1,3 +1,14 @@
+# Pengenalan Sistem Bilangan
+Mata Kuliah Sistem Operasi
+
+Nama: Misyael Yosevian Wiarda
+
+NRP: 3124500039
+
+Kelas: 1 D3 IT B
+
+---
+
 1. a. Bilangan biner adalah bilangan yang berbasis **dua**.
    
    b. Bilangan heksadesimal adalah bilangan yang berbasis **enam belas**.
