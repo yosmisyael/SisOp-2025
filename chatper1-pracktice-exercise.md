@@ -54,10 +54,9 @@ The separation between kernel mode and user mode acts as a basic form of protect
     e. Turn off interrupts.
     f. Modify entries in device-status table.
     g. Switch from user to kernel mode.
-    h. Access I/O device
+    h. Access I/O device.
 
 **Answer:**
-Here’s a paraphrased version of the answer:
 
 The operations that should be privileged are: setting the timer value, clearing memory, disabling interrupts, modifying the device-status table, and accessing I/O devices. The remaining operations, such as reading the clock, issuing a trap instruction, and switching from user mode to kernel mode, can be performed in user mode.
 
@@ -76,7 +75,7 @@ Two potential issues with this approach are: First, the data needed by the opera
 Most systems use only user and kernel modes, but some CPUs offer multiple modes of operation. These additional modes can be used for more detailed security management. For example, instead of just distinguishing between user and kernel modes, different types of user modes could be created, allowing users in the same group to execute each other’s code. The system could switch to a specific mode when a user in the group runs code, enabling mutual access to each other’s code. Another potential use is within kernel code itself. For instance, a particular mode could be dedicated to running USB device drivers, allowing these drivers to operate without fully entering kernel mode, effectively creating a hybrid user/kernel mode for device management.
 
 ---
-### .9 Timers could be used to compute the current time. Provide a short description of how this could be accomplished.
+### 1.9 Timers could be used to compute the current time. Provide a short description of how this could be accomplished.
 
 **Answer:**
 To calculate the current time using timer interrupts, a program could set a timer to trigger at a specific future time and then enter a sleep state. When the timer interrupt occurs, the program wakes up and updates its internal counter, which tracks how many interrupts have occurred. It would then repeat this process, continually resetting the timer and updating its state each time an interrupt is received. This way, the program can keep track of time based on the number of interrupts.
