@@ -78,6 +78,7 @@ Most systems use only user and kernel modes, but some CPUs offer multiple modes 
 ### 1.9 Timers could be used to compute the current time. Provide a short description of how this could be accomplished.
 
 **Answer:**
+
 To calculate the current time using timer interrupts, a program could set a timer to trigger at a specific future time and then enter a sleep state. When the timer interrupt occurs, the program wakes up and updates its internal counter, which tracks how many interrupts have occurred. It would then repeat this process, continually resetting the timer and updating its state each time an interrupt is received. This way, the program can keep track of time based on the number of interrupts.
 
 ---
