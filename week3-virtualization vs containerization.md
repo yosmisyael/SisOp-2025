@@ -9,23 +9,18 @@ Class: 1 D3 IT B
 ## Virtualization
 
 ### Core Concept:
-Virtualization creates a complete virtual copy of a physical computer, including the operating system, kernel, and hardware.   
-A hypervisor (software) manages these virtual machines (VMs), allowing multiple VMs to run on a single physical server.   
-Each VM operates independently, with its own dedicated resources.
+Virtualization creates a complete virtual copy of a physical computer, including the operating system, kernel, and hardware. A hypervisor (software) manages these virtual machines (VMs), allowing multiple VMs to run on a single physical server. Each VM operates independently, with its own dedicated resources.
 
 ### How it Operates:
-The hypervisor allocates physical resources (CPU, RAM, storage) to each VM.   
-Each VM runs its own full operating system, which can be different from the host OS.   
-This provides strong isolation, as one VM's issues won't affect others.   
+The hypervisor allocates physical resources (CPU, RAM, storage) to each VM. Each VM runs its own full operating system, which can be different from the host OS. This provides strong isolation, as one VM's issues won't affect others.
 
 ### Example:
-Running Windows and Linux simultaneously on a Mac using VMware or VirtualBox.   
-Cloud providers like AWS and Azure using VMs to provide virtual servers.   
+Running Windows and Linux simultaneously on a Mac using VMware or VirtualBox. Cloud providers like AWS and Azure using VMs to provide virtual servers.
 
 ### Key Differences:
-Full OS isolation.
-Higher resource overhead.
-Slower startup times.
+- Full OS isolation.
+- Higher resource overhead.
+- Slower startup times.
 
 ## Containerization
 
@@ -50,13 +45,13 @@ Faster startup times.  
 Core Differences that Make Them Behave Differently:
 
 ### OS Level:
-Virtualization: Each VM has its own OS.   
-Containerization: Containers share the host OS kernel.
+- Virtualization: Each VM has its own OS.   
+- Containerization: Containers share the host OS kernel.
 
 ### Resource Usage:
-Virtualization: High resource usage due to full OS copies.
-Containerization: Low resource usage due to kernel sharing.   
+- Virtualization: High resource usage due to full OS copies.
+- Containerization: Low resource usage due to kernel sharing.   
 
 ### Isolation:
-Virtualization: Strong isolation between VMs.   
-Containerization: Process-level isolation within the host OS.
+- Virtualization: Strong isolation between VMs.   
+- Containerization: Process-level isolation within the host OS.
