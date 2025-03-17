@@ -41,14 +41,14 @@ The user perceives that all applications are running concurrently. If the user o
 
 ## Key Differences Summarized:
 ### Interaction:
-Multiprogramming: Non-interactive (batch processing).
-Multitasking: Interactive (timesharing).   
+- Multiprogramming: Non-interactive (batch processing).
+- Multitasking: Interactive (timesharing).   
 ### Goal:
-Multiprogramming: Maximize CPU utilization.
-Multitasking: Provide interactive computing and user experience.
+- Multiprogramming: Maximize CPU utilization.
+- Multitasking: Provide interactive computing and user experience.
 ### Response Time:
-Multiprogramming: Response time is not a primary concern.
-Multitasking: Requires fast response times (typically < 1 second).
+- Multiprogramming: Response time is not a primary concern.
+- Multitasking: Requires fast response times (typically < 1 second).
 ### User Experience:
-Multiprogramming: No user interaction during execution.
-Multitasking: Users directly interact with running programs.
+- Multiprogramming: No user interaction during execution.
+- Multitasking: Users directly interact with running programs.
