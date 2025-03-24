@@ -1,3 +1,9 @@
+Name: Misyael Yosevian Wiarda
+
+NRP: 3124500039
+
+Class: 1 D3 IT B
+
 # Appendix A Summary: Influential Operating Systems
 
 ## A.1
