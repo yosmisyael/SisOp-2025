@@ -1,7 +1,7 @@
 # OS2025
 Name: Misyael Yosevian Wiarda <br>
 NRP: 3124500039 <br>
-Class: 1 D3 IT B <br>
+Class: 2 D3 IT B <br>
 
 ## Assignments
 ### Week 1
@@ -17,3 +17,7 @@ Class: 1 D3 IT B <br>
 ### Week 5
 - [Appendix A Summary: Influential OS](https://github.com/yosmisyael/SisOp-2025/blob/main/week-5/appendix-A-summary.md)
 - [IOPS/FLOPS Benchmark Analysis Reports](https://github.com/yosmisyael/SisOp-2025/blob/main/week-5/iops_floops_benchmark.md)
+### Week 6
+- [Thread Program Analysis](https://github.com/yosmisyael/SisOp-2025/blob/main/week-6/week-6-problems-solution.md)
+### Week 8
+- [Week 8 Problem Set Solutions](https://github.com/yosmisyael/SisOp-2025/blob/main/week-8/week-8-problems-solution.md)
