@@ -21,3 +21,5 @@ Class: 2 D3 IT B <br>
 - [Thread Program Analysis](https://github.com/yosmisyael/SisOp-2025/blob/main/week-6/week-6-problems-solution.md)
 ### Week 8
 - [Week 8 Problem Set Solutions](https://github.com/yosmisyael/SisOp-2025/blob/main/week-8/week-8-problems-solution.md)
+### Week 11
+- [FCFS Algorithm Analysis](https://github.com/yosmisyael/SisOp-2025/blob/main/week-11/fcfs-scheduling-analysis.md)
