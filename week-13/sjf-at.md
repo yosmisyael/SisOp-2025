@@ -1,10 +1,8 @@
 # Laporan Sistem Operasi: Algoritma Penjadwalan SJF Non-Preemptive dengan Arrival Time 
-
-| Nama           | : | Misyael Yosevian Wiarda             |
-| -------------- | - | ----------------------------------- |
-| NRP            | : | 3124500039                          |
-| Kelas          | : | 1 D3 IT B                           |
-| Dosen Pengajar | : | Dr. Ferry Astika Saputra ST, M.Sc   |
+**Nama Anggota Kelompok:**
+1. Misyael Yosevian Wiarda (3124500039)
+2. Fahroldhi Sukirno (3124500046)
+3. Erick Haidar Rahmat (3124500047)
 
 ---
 
@@ -140,6 +138,7 @@ Untuk menganalisis kinerja algoritma penjadwalan Shortest Job First (SJF) dengan
 | P3        | 4  | 1  | 8   | 4   | 3  | 3  |  
 | P2        | 2  | 4  | 12  | 10  | 6  | 6  |  
 | P4        | 5  | 4  | 16  | 11  | 7  | 7  |  
+
 **Perhitugan Rata-Rata:**
 - **Average Waiting Time (WT):** 
 
@@ -147,6 +146,11 @@ Untuk menganalisis kinerja algoritma penjadwalan Shortest Job First (SJF) dengan
 - **Average Turn Around Time (TAT):**
 
     $\frac{(7.0 - 0.0) + (12.0 - 2.0) + (8.0 - 4.0) + (16.0 - 5.0)}{4} = 8.0$
+
+**Gantt Chart:**  
+
+![image](https://github.com/user-attachments/assets/efcfbf01-94ef-46c9-8113-95c72311f476)
+
 
 ## 6. Kesimpulan
 Laporan ini telah berhasil menganalisis implementasi algoritma penjadwalan Shortest Job First (SJF) non-preemptive dengan mempertimbangkan arrival time proses. Berdasarkan hasil pengujian menggunakan beban komputasi yang ditentukan, algoritma SJF menunjukkan kemampuannya dalam mengoptimalkan waktu tunggu rata-rata proses. Meskipun demikian, algoritma ini memiliki kompleksitas implementasi yang lebih tinggi dibandingkan dengan algoritma sederhana seperti First-Come, First-Served (FCFS), terutama dalam menentukan proses terpendek yang siap dieksekusi pada setiap titik waktu. Hasil perhitungan menunjukkan Average Waiting Time (WT) sebesar 4.0 dan Average Turnaround Time (TAT) sebesar 8.0, mengindikasikan efisiensi algoritma SJF dalam meminimalkan kedua metrik tersebut untuk skenario yang diberikan. Namun, tantangan dalam memprediksi burst time secara akurat di lingkungan nyata tetap menjadi batasan utama penerapan SJF.
