@@ -23,3 +23,7 @@ Class: 2 D3 IT B <br>
 - [Week 8 Problem Set Solutions](https://github.com/yosmisyael/SisOp-2025/blob/main/week-8/week-8-problems-solution.md)
 ### Week 11
 - [FCFS Algorithm Analysis](https://github.com/yosmisyael/SisOp-2025/blob/main/week-11/fcfs-scheduling-analysis.md)
+### Week 13
+- [Shortest Job First (SJF) Non-Preemptive without Arrival Time](https://github.com/yosmisyael/SisOp-2025/blob/main/week-13/sjf-wo-at.md)
+- [Shortest Job First (SJF) Non-Preemptive with Arrival Time](github.com/yosmisyael/SisOp-2025/blob/main/week-13/sjf-at.md)
+- [Shortest Remaining Time First (SRTF) Preemptive](https://github.com/yosmisyael/SisOp-2025/blob/main/week-13/srtf.md)
