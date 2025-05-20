@@ -1,10 +1,9 @@
 # Laporan Sistem Operasi: Algoritma Penjadwalan Shorthest Remaining Time First (SRTF - Preemptive)
 
-| Nama           | : | Misyael Yosevian Wiarda             |
-| -------------- | - | ----------------------------------- |
-| NRP            | : | 3124500039                          |
-| Kelas          | : | 1 D3 IT B                           |
-| Dosen Pengajar | : | Dr. Ferry Astika Saputra ST, M.Sc   |
+**Nama Anggota Kelompok:**
+1. Misyael Yosevian Wiarda (3124500039)
+2. Fahroldhi Sukirno (3124500046)
+3. Erick Haidar Rahmat (3124500047)
 
 ---
 
@@ -144,6 +143,7 @@ Untuk menganalisis kinerja algoritma penjadwalan SRTF atau Shortest Job First Pr
 | P2        | 2  | 4  | 7   | 5   | 5  |
 | P4        | 5  | 4  | 11  | 6   | 6  |
 | P1        | 0  | 7  | 16  | 16  | 16 | 
+
 **Perhitugan Rata-Rata:**
 - **Average Waiting Time (WT):** 
 
@@ -151,6 +151,11 @@ Untuk menganalisis kinerja algoritma penjadwalan SRTF atau Shortest Job First Pr
 - **Average Turn Around Time (TAT):**
 
    $$\frac{(1) + (5) + (6) + (16)}{4} = \frac{28}{4} = 7.0$$
+
+**Gantt Chart:**  
+
+![image](https://github.com/user-attachments/assets/2160e660-7309-4f89-82fe-913ec20911a1)
+
 
 ## 6. Kesimpulan
 Laporan ini telah menganalisis implementasi algoritma penjadwalan Shortest Remaining Time First (SRTF), atau SJF Preemptive, dengan mempertimbangkan arrival time proses. Berbeda dengan SJF non-preemptive, SRTF memungkinkan preemption, yang secara teoritis dapat memberikan waktu tunggu rata-rata yang lebih optimal dengan merespons kedatangan proses-proses pendek secara dinamis. Berdasarkan skenario pengujian yang sama, SRTF berhasil mencapai Average Waiting Time (WT) sebesar 3.0 dan Average Turnaround Time (TAT) sebesar 7.0. Hasil ini menunjukkan bahwa SRTF umumnya menghasilkan kinerja yang lebih baik dalam hal waktu tunggu dan perputaran dibandingkan SJF non-preemptive untuk beban kerja yang sama, karena kemampuannya untuk segera menjadwalkan proses dengan burst time terpendek yang baru tiba. Namun, kompleksitas implementasinya lebih tinggi karena overhead yang terkait dengan preemption dan pemantauan sisa waktu eksekusi secara terus-menerus.
