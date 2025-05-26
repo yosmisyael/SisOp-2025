@@ -2,7 +2,9 @@ Nama: Misyael Yosevian Wiarda
 
 NRP: 3124500039
 
-Kelas: 2 D3 IT B
+Kelas: 1 D3 IT B
+
+Dosen Pengajar: Dr. Ferry Astika Saputra ST, M.Sc
 
 --- 
 # Tugas Pertemuan Minggu ke-8
