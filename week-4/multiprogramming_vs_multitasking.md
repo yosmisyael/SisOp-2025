@@ -4,6 +4,8 @@ NRP : 3124500039
 
 Class: 1 D3 IT B
 
+Dosen Pengajar: Dr. Ferry Astika Saputra ST, M.Sc
+
 # Differences between Multiprogramming and Multitasking (Timesharing)
 
 ## Multiprogramming: Efficiency Through Batch Processing
