@@ -2,6 +2,7 @@
 Name: Misyael Yosevian Wiarda <br>
 NRP: 3124500039 <br>
 Class: 2 D3 IT B <br>
+Lecturer: Dr. Ferry Astika Saputra ST, M.Sc <br>
 
 ## Assignments
 ### Week 1
