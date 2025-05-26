@@ -5,6 +5,8 @@ NRP: 3124500039
 
 Class: 1 D3 IT B
 
+Dosen Pengajar: Dr. Ferry Astika Saputra ST, M.Sc
+
 ### 1.1 What are the three main purposes of an operating system?
 
 **Answer:**
