@@ -4,6 +4,8 @@
 2. Fahroldhi Sukirno (3124500046)
 3. Erick Haidar Rahmat (3124500047)
 
+Dosen Pengajar: Dr. Ferry Astika Saputra ST, M.Sc
+
 ---
 
 ## 1. Pendahuluan
