@@ -4,6 +4,8 @@ NRP: 3124500039
 
 Class: 1 D3 IT B
 
+Dosen Pengajar: Dr. Ferry Astika Saputra ST, M.Sc
+
 # Timeline of Operating System History
 
 | Time Period          | Key Advancements / Focus                                     | Examples Mentioned                         |
