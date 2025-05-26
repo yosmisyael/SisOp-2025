@@ -4,6 +4,8 @@ NRP: 3124500039
 
 Class: 1 D3 IT B
 
+Dosen Pengajar: Dr. Ferry Astika Saputra ST, M.Sc
+
 # Thread Program Analysis
 Program: [print123thread.c](https://github.com/ferryastika/SisOp-24/blob/main/print123thread.c)
 ## 1. Include Headers:
