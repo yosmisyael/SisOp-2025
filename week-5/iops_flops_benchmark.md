@@ -4,6 +4,8 @@ NRP: 3124500039
 
 Class: 1 D3 IT B
 
+Dosen Pengajar: Dr. Ferry Astika Saputra ST, M.Sc
+
 # IOPS/FLOPS Benchmark Reports
 
 ![Benchmark Result](https://raw.githubusercontent.com/yosmisyael/SisOp-2025/refs/heads/main/week-5/iops-flops-benchmark.jpg "Benchmark Result")
