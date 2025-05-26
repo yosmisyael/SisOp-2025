@@ -7,6 +7,8 @@ NRP: 3124500039
 
 Kelas: 1 D3 IT B
 
+Dosen Pengajar: Dr. Ferry Astika Saputra ST, M.Sc
+
 ---
 
 1. a. Bilangan biner adalah bilangan yang berbasis **dua**.
