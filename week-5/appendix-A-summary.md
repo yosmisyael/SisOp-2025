@@ -4,6 +4,8 @@ NRP: 3124500039
 
 Class: 1 D3 IT B
 
+Dosen Pengajar: Dr. Ferry Astika Saputra ST, M.Sc
+
 # Appendix A Summary: Influential Operating Systems
 
 ## A.1
