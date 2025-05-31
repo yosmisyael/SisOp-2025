@@ -28,3 +28,5 @@ Lecturer: Dr. Ferry Astika Saputra ST, M.Sc <br>
 - [Shortest Job First (SJF) Non-Preemptive without Arrival Time](https://github.com/yosmisyael/SisOp-2025/blob/main/week-13/sjf-wo-at.md)
 - [Shortest Job First (SJF) Non-Preemptive with Arrival Time](github.com/yosmisyael/SisOp-2025/blob/main/week-13/sjf-at.md)
 - [Shortest Remaining Time First (SRTF) Preemptive](https://github.com/yosmisyael/SisOp-2025/blob/main/week-13/srtf.md)
+### Week 14
+- [Video Project: CPU Scheduling Algorithm](https://github.com/yosmisyael/SisOp-2025/blob/main/week-14/video-project.md)
